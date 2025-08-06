@@ -81,10 +81,11 @@ I'm open to internships, freelance projects, and full-time roles where I can app
 
 ## 🧮 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_DataAnalyst?theme=radical&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_?theme=radical&font=Baloo&ext=heatmap)
 
-> 🟢 **Easy** | 🟡 **Medium** | 🔴 **Hard** — Consistently solving problems across all levels  
-> 📈 My performance is **above average**, with strong problem-solving skills and continuous progress in DSA.
+> 🟢 **Easy** | 🟡 **Medium** | 🔴 **Hard** — Solving consistently across all levels  
+> 📈 Performance: **Above Average** in logical thinking and data structure problem-solving
+
 
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul&bg_color=151414&color=fcfcfc&line=54fafc&point=6619f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
