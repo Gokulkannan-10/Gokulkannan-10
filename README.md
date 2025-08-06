@@ -77,16 +77,10 @@ I'm open to internships, freelance projects, and full-time roles where I can app
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-## 🧮 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_?theme=radical&font=Baloo&ext=heatmap)
-
-> 🟢 **Easy** | 🟡 **Medium** | 🔴 **Hard** — Consistently solving problems across all levels  
-> 📈 My performance is **above average**, with strong problem-solving skills and continuous progress in DSA.
+![Gokul's Stats](https://github-readme-stats.vercel.app/api?username=Gokul&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/gokul_?theme=radical&font=Ibarra%20Real%20Nova&ext=contest)
 
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul&bg_color=151414&color=fcfcfc&line=54fafc&point=6619f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
