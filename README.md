@@ -3,12 +3,18 @@
 Data Analysts | Business Analyst
 # 👋 Hi, I'm Gokul Kannan
 
+<img align="right" width="370" height="290" src="https://app.lottiefiles.com/preview?source=edito">
+
+
+
 🎓 MBA Graduate | 📊 Aspiring Data Analyst / Business Analyst  
 📍 Based in India | Currently improving analytical skills & project experience
+
 
 ---
 
 ## 🧠 About Me
+
 
 I'm a passionate and detail-oriented aspiring Analyst with a dual specialization in **Business Analytics and Human Resources**.  
 Currently enhancing my skills in **Excel, Power BI, SQL, and Python** through hands-on projects and real-world datasets.
