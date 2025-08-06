@@ -83,8 +83,9 @@ I'm open to internships, freelance projects, and full-time roles where I can app
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_?theme=radical&font=Baloo&ext=heatmap)
 
-> 🟢 **Easy** | 🟡 **Medium** | 🔴 **Hard** — Solving consistently across all levels  
-> 📈 Performance: **Above Average** in logical thinking and data structure problem-solving
+> 🟢 **Easy** | 🟡 **Medium** | 🔴 **Hard** — Consistently solving problems across all levels  
+> 📈 My performance is **above average**, with strong problem-solving skills and continuous progress in DSA.
+
 
 
 
