@@ -1,6 +1,60 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Gokul Kannan D
 
-Software Engineer @ Zoho Corporation
+Data Analysts | Business Analyst
+# 👋 Hi, I'm Gokul Kannan
+
+🎓 MBA Graduate | 📊 Aspiring Data Analyst / Business Analyst  
+📍 Based in India | Currently improving analytical skills & project experience
+
+---
+
+## 🧠 About Me
+
+I'm a passionate and detail-oriented aspiring Analyst with a dual specialization in **Business Analytics and Human Resources**.  
+Currently enhancing my skills in **Excel, Power BI, SQL, and Python** through hands-on projects and real-world datasets.
+
+🔍 I’m actively looking for opportunities as a **Data Analyst** or **Business Analyst** in the **IT Sector**.  
+I'm open to internships, freelance projects, and full-time roles where I can apply my analytical mindset and contribute to business growth.
+
+---
+
+## 💼 Skills
+
+- **Data Analysis**: Excel, Power BI, SQL, Python (Pandas, Matplotlib)
+- **Business Intelligence**: Dashboards, Reports, KPI Tracking
+- **Data Cleaning & EDA**: Real-time project experience in segmenting, visualizing, and deriving insights
+- **Tools & Platforms**: MS Excel, Power BI, Google Sheets, Microsoft Forms, Zoho, Tally ERP
+
+---
+
+## 📁 Projects
+
+🔹 **Customer Segmentation (Capstone Project)**  
+🔹 **HR Analytics: Attrition & Absenteeism**  
+🔹 **Restaurant Sales Dashboard**  
+🔹 **Medical Data Query Analysis (34 Queries Solved)**  
+
+> Check the pinned repositories below for project details and code 👇
+
+---
+
+## 🤝 Connect with Me
+
+📧 Email: [d.gokulkannan@gmail.com]   
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+---
+
+## 📈 Let's Collaborate
+
+- Looking for: Internship / Entry-Level Role  
+- Open to: Data Cleaning | Dashboards | Business Reports | EDA | Insights for Decision Making  
+- I'm eager to learn, adapt quickly, and work in a collaborative environment. Let’s grow together!
+
+---
+
+
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
