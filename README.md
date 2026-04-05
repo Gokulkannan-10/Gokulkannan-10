@@ -43,6 +43,7 @@ I'm open to internships, freelance projects, and full-time roles where I can app
 
 ## 📁 Projects
 
+🔹 **Finacial year Budget at Suguna Foods**  
 🔹 **Customer Segmentation (Capstone Project)**  
 🔹 **HR Analytics: Attrition & Absenteeism**  
 🔹 **Restaurant Sales Dashboard**  
