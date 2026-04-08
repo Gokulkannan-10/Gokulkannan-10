@@ -1,5 +1,26 @@
 # 💫 About Me:
-👋 Hi, I'm Gokul Kannan D<br><br>🎓 MBA Graduate | 📊 Aspiring Data Analyst | 💼 Business Analytics & HR<br><br>I’m passionate about transforming raw data into meaningful insights that drive business decisions. Currently building strong hands-on experience in data analysis and HR analytics.<br><br>🚀 About Me<br><br>🎯 Career Goal: Data Analyst / ERP Analyst<br>📊 Skilled in: Excel, SQL (Learning), Data Cleaning<br>📈 Learning: Python, Power BI, Advanced SQL<br>🧠 Strong in: Business Understanding + Analytical Thinking<br>💡 Interested in: HR Analytics, Customer Segmentation, Dashboarding<br>💼 Work Experience<br>🏢 Suguna Foods Private Limited<br><br>Role: HR (Current)<br><br>📊 Worked on HR Analytics – Financial Year Budget Analysis<br>📈 Assisted in budget planning and workforce cost analysis<br>🧑‍🏫 Conducted employee training programs based on feedback analysis<br>📋 Collected and analyzed employee feedback to improve training effectiveness<br>🤝 Supported HR operations and decision-making using data insights<br><br>🛠️ Tools & Technologies<br><br>Data Analysis: Excel, SQL<br>Visualization: Power BI (Learning), Tableau<br>Database: MySQL<br>Other Skills: Data Cleaning, EDA, Reporting<br><br>📂 Featured Projects<br><br>🔹 Customer Segmentation Analysis<br><br>Analyzed customer purchase behavior<br>Identified target segments using clustering<br><br>🔹 Restaurant Data Analysis Project<br><br>Data cleaning and exploratory analysis<br>Insights on pricing, ratings, and trends<br><br>🔹 SQL Case Studies<br><br>Joins, Subqueries, Aggregations<br>Business problem-solving queries<br>📈 What I'm Currently Working On<br>Building end-to-end data analytics projects<br>Improving SQL & data analysis skills<br>Creating interactive dashboards<br>Strengthening HR analytics knowledge<br><br>🏆 Strengths<br><br>✔ Problem Solving<br>✔ Business + Data Thinking<br>✔ Quick Learner<br>✔ Analytical Mindset<br><br>📫 Connect With Me<br><br>🔗 LinkedIn: http://www.linkedin.com/in/gokulkannan10<br>📧 Email: d.gokulkannan03@gmail.com<br><br>⚡ Fun Fact<br><br>I enjoy combining HR knowledge with data analytics to improve employee performance and business outcomes 📊
+👋 Hi, I'm Gokul Kannan D<br><br>🎓 MBA Graduate | 📊 Aspiring Data Analyst | 💼 Business Analytics & HR<br><br>I’m passionate about transforming raw data into meaningful insights that drive business decisions. Currently building strong hands-on experience in data analysis and HR analytics.<br><br>🚀 About Me<br><br>🎯 Career Goal: Data Analyst / ERP Analyst<br>📊 Skilled in: Excel, SQL (Learning), Data Cleaning<br>📈 Learning: Python, Power BI, Advanced SQL<br>🧠 Strong in: Business Understanding + Analytical Thinking<br>💡 Interested in: HR Analytics, Customer Segmentation, Dashboarding<br>
+
+💼 Work Experience<br>🏢 Suguna Foods Private Limited<br><br>Role: HR (Current)<br><br>📊 Worked on HR Analytics – Financial Year Budget Analysis<br>📈 Assisted in budget planning and workforce cost analysis<br>🧑‍🏫 Conducted employee training programs based on feedback analysis<br>📋 Collected and analyzed employee feedback to improve training effectiveness<br>🤝 Supported HR operations and decision-making using data insights<br><br>
+
+🛠️ Tools & Technologies<br><br>Data Analysis: Excel, SQL<br>Visualization: Power BI (Learning), Tableau<br>Database: MySQL<br>Other Skills: Data Cleaning, EDA, Reporting<br><br>
+
+📂 Featured Projects<br><br>
+
+🔹 Customer Segmentation Analysis<br><br>
+Analyzed customer purchase behavior<br>Identified target segments using clustering<br><br>
+
+🔹 Restaurant Data Analysis Project<br><br>
+Data cleaning and exploratory analysis<br>Insights on pricing, ratings, and trends<br><br>
+
+🔹 SQL Case Studies<br><br>
+Joins, Subqueries, Aggregations<br>Business problem-solving queries<br>📈 What I'm Currently Working On<br>Building end-to-end data analytics projects<br>Improving SQL & data analysis skills<br>Creating interactive dashboards<br>Strengthening HR analytics knowledge<br><br>
+
+🏆 Strengths<br><br>
+
+✔ Problem Solving<br>✔ Business + Data Thinking<br>✔ Quick Learner<br>✔ Analytical Mindset<br><br>
+
+📫 Connect With Me<br><br>🔗 LinkedIn: http://www.linkedin.com/in/gokulkannan10<br>📧 Email: d.gokulkannan03@gmail.com<br><br>⚡ Fun Fact<br><br>I enjoy combining HR knowledge with data analytics to improve employee performance and business outcomes 📊
 
 
 ## 🌐 Socials:
