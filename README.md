@@ -56,7 +56,7 @@ Joins, Subqueries, Aggregations<br>Business problem-solving queries<br>📈 What
 ---
 ## 🔍 Seeking Opportunities
 
-- Looking for: Internship / Entry-Level Role  
+- Looking for: Data Analyst / Business Analyst  
 - Open to: Data Cleaning | Dashboards | Business Reports | EDA | Insights for Decision Making  
 - I'm eager to learn, adapt quickly, and work in a collaborative environment. Let’s grow together!
 ----
